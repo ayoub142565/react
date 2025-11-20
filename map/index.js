@@ -6,7 +6,7 @@ const personnes = [{nom:"rami", age:33, estmembre:true},
 const noms = personnes.map(function(per){return per.nom;});
 console.log(noms);
 
-//exercice1
+//exercice1 
 let nums = [2,5,8,7,3];
 nums = nums.map(function(num){return num * 3;});
 
