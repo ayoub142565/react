@@ -8,6 +8,6 @@ console.log(noms);
 
 //exercice1 
 let nums = [2,5,8,7,3];
-nums = nums.map(function(num){return num * 3;});
+newnums = nums.map(function(num){return num * 3;});
 
-console.log(nums);
+console.log(newnums);
